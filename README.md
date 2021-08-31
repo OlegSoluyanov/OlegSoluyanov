@@ -10,6 +10,9 @@
 [<img src="https://img.icons8.com/nolan/64/gmail.png"/>](mailto:solonevo@gmail.com) solonevo@gmail.com
 
 
+<img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
+
+
 
 
 
