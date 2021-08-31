@@ -8,16 +8,7 @@
 [<img src="https://img.icons8.com/nolan/64/telegram-app.png"/>](https://t.me/Ingamba/) [Telegram](https://t.me/Ingamba/)
 [<img src="https://img.icons8.com/nolan/64/whatsapp.png"/>](https://wa.me/+79291042316/) [Whatsapp](https://wa.me/+79291042316/)
 [<img src="https://img.icons8.com/nolan/64/gmail.png"/>](mailto:solonevo@gmail.com) solonevo@gmail.com
-function fixPhoneLink(){
-const phoneElements = document.querySelectorAll('.phone a');
-
-phoneElements.forEach((e)=>{
-let newLink = 'tel:+7' + e.textContent.replace(/-/g, "").replace(/ /g, "").slice(1)
-e.href = newLink;
-})
-
-}
-fixPhoneLink()
+<a title="Позвонить" href="tel:+120345678910">+12(034)567-89-10</a>
 
 
 
