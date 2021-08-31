@@ -7,6 +7,6 @@
 [My Whatsup](https://wa.me/+79291042316/), [Telegram](https://t.me/Ingamba/), solonevo@gmail.com
 [<img src="https://img.icons8.com/nolan/64/telegram-app.png"/>](https://t.me/Ingamba/)
 [<img src="https://img.icons8.com/nolan/64/whatsapp.png"/>](https://wa.me/+79291042316/)
-[<img src="https://img.icons8.com/nolan/64/gmail.png"/>](https://mailto:solonevo@gmail.com)
+[<img src="https://img.icons8.com/nolan/64/gmail.png"/>](https://solonevo@gmail.com)
 
 
