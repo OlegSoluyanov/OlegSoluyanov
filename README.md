@@ -9,7 +9,7 @@
 [<img src="https://img.icons8.com/nolan/64/whatsapp.png"/>](https://wa.me/+79291042316/) [Whatsapp](https://wa.me/+79291042316/)
 [<img src="https://img.icons8.com/nolan/64/gmail.png"/>](mailto:solonevo@gmail.com) solonevo@gmail.com
 
-[<img src="https://img.icons8.com/nolan/64/cell-phone.png"/>][tel:+74957873422]
+[<img src="https://img.icons8.com/nolan/64/cell-phone.png"/>](tel:+74957873422)
 
 
 
