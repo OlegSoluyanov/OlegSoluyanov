@@ -10,6 +10,7 @@
 [<img src="https://img.icons8.com/nolan/64/gmail.png"/>](mailto:solonevo@gmail.com) solonevo@gmail.com
 
 [<img src="https://img.icons8.com/nolan/64/cell-phone.png"/>](<a href="tel:+78142332211">+7(814)-233-22-11</a>)
+[Позвонить 8 (495) 787 34 22](tel:+74957873422)
 
 
 
