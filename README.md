@@ -9,7 +9,7 @@
 [<img src="https://img.icons8.com/nolan/64/whatsapp.png"/>](https://wa.me/+79291042316/) [Whatsapp](https://wa.me/+79291042316/)
 [<img src="https://img.icons8.com/nolan/64/gmail.png"/>](mailto:solonevo@gmail.com) solonevo@gmail.com
 
-[+7(929)-104-23-16](tel:+79291042316)
+[+7(814)-233-22-11](callto:+78142332211)
 
 
 
