@@ -10,7 +10,11 @@
 [<img src="https://img.icons8.com/nolan/64/gmail.png"/>](mailto:solonevo@gmail.com) solonevo@gmail.com
 
 
-<img src="https://img.icons8.com/color/48/000000/python--v1.png"/> <img src="https://img.icons8.com/color-glass/48/000000/sql.png"/> <img src="https://img.icons8.com/color/48/000000/power-bi.png"/>
+<img src="https://img.icons8.com/color/48/000000/python--v1.png"/> Python
+
+<img src="https://img.icons8.com/color-glass/48/000000/sql.png"/> SQL
+
+<img src="https://img.icons8.com/color/48/000000/power-bi.png"/> Tabelau Power BI
 
 
 
