@@ -9,6 +9,7 @@
 [<img src="https://img.icons8.com/nolan/64/whatsapp.png"/>](https://wa.me/+79291042316/) [Whatsapp](https://wa.me/+79291042316/)
 [<img src="https://img.icons8.com/nolan/64/gmail.png"/>](mailto:solonevo@gmail.com) solonevo@gmail.com
 [<a href="tel:+79291042316"></a>](tel:+79291042316)
+[](tel:+79291042316)
 
 
 
