@@ -4,5 +4,5 @@
 - 🌱 I’m currently learning deeply pyhon, sql, BI systems, ML, statistic tests
 - 💬 Ask me about multinational and local big retail like IKEA, Metro group, X5, Lenta regarding offline operation management, i saw them inside
 - 📫 How to reach me: <a href="tel:+79291042316">+7(929)-104-23-16</a>, [My Whatsup](https://wa.me/+79291042316/), [Telegram](https://t.me/Ingamba/), solonevo@gmail.com
-<span>+7(999)111-22-33</span>
+<pnumber" name="phone_number">+7(999)111-22-33</p>
 -->
