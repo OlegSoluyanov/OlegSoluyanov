@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on developing of my data analysis skills
 - 🌱 I’m currently learning deeply pyhon, sql, BI systems, ML, statistic tests
 - 💬 Ask me about multinational and local big retail like IKEA, Metro group, X5, Lenta regarding offline operation management, i saw them inside
-- 📫 How to reach me: phone +79291042316, https://wa.me/+79291042316, https://t.me/Ingamba, solonevo@gmail.com
+- 📫 How to reach me: phone <a href="tel:+7 (929) 104 23 16">+7 (4012) 52 44 07</a>, https://wa.me/+79291042316, https://t.me/Ingamba, solonevo@gmail.com
 
 
 -->
