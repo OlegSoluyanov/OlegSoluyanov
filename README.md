@@ -11,3 +11,6 @@
 
 
 <img src="https://img.icons8.com/color/48/000000/python--v1.png"/> Python <img src="https://img.icons8.com/color-glass/48/000000/sql.png"/> SQL <img src="https://img.icons8.com/color/48/000000/power-bi.png"/> Tabelau Power BI <img src="https://img.icons8.com/color/48/000000/sap.png"/> SAP <img src="https://img.icons8.com/color/48/000000/dynamics-365.png"/> MS Dynamics
+
+
+
